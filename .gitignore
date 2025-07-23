@@ -1,0 +1,14 @@
+# バックアップファイル
+backup/*/
+
+# 一時ファイル
+*.tmp
+*.temp
+*.log
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# テストディレクトリ
+test-*/
